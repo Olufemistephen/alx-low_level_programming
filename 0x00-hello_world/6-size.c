@@ -4,7 +4,7 @@
  *
  *  * main - Prints sized of characters
  *
- *   *
+ *   *Description - printing sizes
  *
  *    *Return: Always 0 (success)
  *
