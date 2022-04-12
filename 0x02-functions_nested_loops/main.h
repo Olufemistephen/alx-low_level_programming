@@ -1,7 +1,5 @@
-#ifndef _MAIN_M_
-#define _MAIN_M_
-
-int _putchar(char c);
-void print_alphabet(void);
-#endif / "_MAIN_M_ "/
+#ifndef DEC_MAIN_H
+#define DEC_MAIN_H
+#include <string>
+#endif
 
