@@ -1,6 +1,5 @@
 #ifndef MAIN_H_INCLUDED
 #define MAIN_H_INCLUDED
-
 void print_alphabet(void);
 void print_alphabet_x10(void);
 int _islower(int c);
@@ -13,5 +12,3 @@ void times_table(void);
 int add(int a, int b);
 void print_to_98(int n);
 void print_times_table(int n);
-
-#endif
