@@ -1,4 +1,4 @@
-#include "0-putchar.c"
+#include "School.c"
 
 /**
  * main - Entry point
